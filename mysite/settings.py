@@ -25,7 +25,7 @@ SECRET_KEY = '%w^*k%3mga@k+^&8i3m@w==o#omcq54t__)f&u3(y71io6ix%b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'antocaroca.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', ' . antocaroca.pythonanywhere.com']
 
 
 # Application definition
@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'es-es'
 
 TIME_ZONE = 'UTC'
 
